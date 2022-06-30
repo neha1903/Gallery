@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="image_view">Image View</string>
+    <string name="action_back">Action Back</string>
+</resources>

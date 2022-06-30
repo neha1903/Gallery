@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/background_circular.xml" value="0.1635" />
+        <entry key="app/src/main/res/drawable/ic_baseline_play_circle_24.xml" value="0.1635" />
+        <entry key="app/src/main/res/drawable/ic_custom_error_placeholder.xml" value="0.1605" />
+        <entry key="app/src/main/res/drawable/ic_custom_loading_placeholder.xml" value="0.1605" />
+        <entry key="app/src/main/res/drawable/ic_download.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_feed_backbtn.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/transparent_bg.xml" value="0.1355" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_recycler.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/gallery_image_item_view.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/gallery_recycler.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/transparent_bg.xml" value="0.20925925925925926" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
